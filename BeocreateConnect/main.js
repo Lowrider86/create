@@ -166,7 +166,7 @@ Menu.setApplicationMenu(menu);
 		minHeight: 300, 
 		//acceptFirstMouse: true, 
 		titleBarStyle: "hiddenInset", 
-		title: "Beocreate Connect",
+		title: "Vootec AudioMax", //"Beocreate Connect",
 		frame: false,
 		show: false,
 		fullscreenWindowTitle: true,
